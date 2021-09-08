@@ -12,8 +12,8 @@ Nike  Product Card Page using HTML, CSS, JavaScript.. You can find me on the soc
 
 ## Demo
 
-Nike Product Card Page demo: https://tawhidkomol.github.io/Mojo-LandingPage-CSS-JQuery/
+Nike Product Card Page demo: https://tawhidkomol.github.io/Nike-product-card-html-css-JavaScript/index.html
 
 ## Project Screenshots
 
-![App Screenshot](https://github.com/TawhidKomol/Mojo-LandingPage-CSS-JQuery/blob/main/images/mojo.png?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/Nike-product-card-html-css-JavaScript/blob/main/demo/Nike.png?raw=true)
