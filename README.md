@@ -14,6 +14,6 @@ Nike  Product Card Page using HTML, CSS, JavaScript.. You can find me on the soc
 
 Nike Product Card Page demo: https://tawhidkomol.github.io/Nike-product-card-html-css-JavaScript/index.html
 
-## Project Screenshots
+## Project Demo Screenshots
 
 ![App Screenshot](https://github.com/TawhidKomol/Nike-product-card-html-css-JavaScript/blob/main/demo/Nike.png?raw=true)
