@@ -251,7 +251,7 @@ a {
   justify-content: space-between;
 }
 
-/*===== Size =====*/
+/*---Size---*/
 .size_title {
   font-size: var(--normal-font-size);
   margin-bottom: 1rem;
